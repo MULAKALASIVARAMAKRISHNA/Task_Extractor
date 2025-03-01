@@ -1,0 +1,1 @@
+This uses spaCy and dateparser to extract and categorize tasks from a text file. It identifies responsible entities, deadlines, and task categories using keyword matching and named entity recognition. The script reads sentences, processes dates, and categorizes tasks into predefined groups for organized task management effectively and efficiently.
